@@ -23,7 +23,7 @@
 - I am watching Beauty and the Beast.
 
 I think the movie is very entertaining and telling.
-My next movie is I am a robot. 
+My next movie is 'I Am a Robot.' 
  * Notice line breaks use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application.
 ---
 
@@ -57,6 +57,16 @@ My next movie is I am a robot.
 
 Add >> in front of a paragraph.
 > Let us perform an example for nested blockquotes.
->> This sentence is nested. 
+>> This sentence is nested.
+
+## Blockquotes With Other Elements
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the charts.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
 ---
 
