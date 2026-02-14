@@ -32,4 +32,9 @@ My next movie is I am a robot.
 > Add two asterisks or an underscore before or after the word or sentence.
 >
 The word is **Emotions**.
-> 
+>
+---
+## Italic
+
+> Add one asterisk before and after a word or sentence.
+The word in *italic*. 
