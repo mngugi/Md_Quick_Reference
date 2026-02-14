@@ -5,7 +5,7 @@
 ## Basic Syntax
 ---
 
-This is a basic markdown reference guide for quick reference.
+- This is a basic markdown reference guide for quick reference.
 
 ---
 ## Heading IDs
@@ -20,7 +20,7 @@ This is a basic markdown reference guide for quick reference.
 
 ## Paragraphs 
 
-I am watching Beauty and the Beast.
+- I am watching Beauty and the Beast.
 
 I think the movie is very entertaining and telling.
 My next movie is I am a robot. 
@@ -31,10 +31,15 @@ My next movie is I am a robot.
 
 > Add two asterisks or an underscore before or after the word or sentence.
 >
-The word is **Emotions**.
+- The word is **Emotions**.
 >
 ---
 ## Italic
 
 > Add one asterisk before and after a word or sentence.
-The word in *italic*. 
+- The word in *italic*.
+
+## Bold and Italic
+
+> Add three asterisks.
+- This word ***terminal*** has both **bold** and *italic*.
