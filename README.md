@@ -25,3 +25,11 @@ I am watching Beauty and the Beast.
 I think the movie is very entertaining and telling.
 My next movie is I am a robot. 
  * Notice line breaks use two or more spaces (commonly referred to as “trailing whitespace”) for line breaks in nearly every Markdown application.
+---
+
+## Bold 
+
+> Add two asterisks or an underscore before or after the word or sentence.
+>
+The word is **Emotions**.
+> 
