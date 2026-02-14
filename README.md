@@ -7,5 +7,9 @@ This is a basic markdown reference guide for quick reference.
 ---
 ## Heading IDs
 
-# Heading 1
+# Heading Level 1
+## Heading Level 2
+### Heading Level 3
+#### Heading Level 4
+
 
