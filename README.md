@@ -18,4 +18,9 @@ This is a basic markdown reference guide for quick reference.
 ###### Heading Level 6
 ---
 
+## Paragraphs 
 
+I am watching Beauty and the Beast.
+
+I think the movie is very entertaining and telling.
+My next movie is I am a robot. 
