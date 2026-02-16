@@ -70,3 +70,13 @@ Add >> in front of a paragraph.
 
 ---
 
+## Lists
+- Items can be organized into ordered and unordered lists.
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+
+
+
