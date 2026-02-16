@@ -152,3 +152,26 @@ Add >> in front of a paragraph.
           </head>
 
 3. Update the title to match the name of your website.
+
+---
+## Images
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3. Close the file.
+
+---
+
+## Horizontal Rules
+To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+
+***
+
+---
+
+---
+## Links
+
+- Search engine such as [Duck Duck go](https://duckduckgo.com)
