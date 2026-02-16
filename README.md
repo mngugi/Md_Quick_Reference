@@ -175,3 +175,14 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
 ## Links
 
 - Search engine such as [Duck Duck go](https://duckduckgo.com)
+
+---
+## Adding Titles
+
+You can optionally add a title for a link. This will appear as a tooltip when the user hovers over the link. To add a title, enclose it in quotation marks after the URL.
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+The rendered output looks like this:
+
+
+
