@@ -158,7 +158,7 @@ Add >> in front of a paragraph.
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](san_juan_maoutain.png)
+    ![Tux, the Linux mascot](cute-anime.webp)
 
 3. Close the file.
 
