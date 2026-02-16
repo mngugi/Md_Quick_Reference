@@ -86,4 +86,37 @@ Add >> in front of a paragraph.
     2. Indented item
 4. Fourth item
 
+## Unordered Lists
+
+- First item
+- Second item
+- Third item
+- Fourth item
+---
+* First item
+* Second item
+* Third item
+* Fourth item
+
+  ---
++ First item
++ Second item
++ Third item
++ Fourth item
+
+---
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+---
+
+- 1968\. A great year!
+- I think 1969 was the second best.
+
+  
 
