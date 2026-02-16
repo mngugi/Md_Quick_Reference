@@ -226,7 +226,7 @@ eat: it was a [hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobb
 ## Images
 
 + Add an exclamation mark(!).
-+ ![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
++ ![The San Juan Mountains are beautiful](san_juan_maoutain.jpg)
 + 
 
 ---
