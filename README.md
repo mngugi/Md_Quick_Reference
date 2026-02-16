@@ -184,5 +184,22 @@ You can optionally add a title for a link. This will appear as a tooltip when th
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 The rendered output looks like this:
 
+---
 
+## URLs and Email Addresses
+
+To quickly turn a URL or email address into a link, enclose it in angle brackets.
+
+<https://www.markdownguide.org>
+<fake@example.com>
+
+---
+
+## Formatting Links
+
+To emphasize links, add asterisks before and after the brackets and parentheses. To denote links as code, add backticks in the brackets.
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
 
