@@ -98,7 +98,7 @@ Add >> in front of a paragraph.
 * Third item
 * Fourth item
 
-  ---
+---
 + First item
 + Second item
 + Third item
@@ -118,5 +118,25 @@ Add >> in front of a paragraph.
 - 1968\. A great year!
 - I think 1969 was the second best.
 
+---
+## Adding Elements in Lists
+### Paragraphs
+
+* This is the first list item.
+* Here's the second list item.
+
+    I need to add another paragraph below the second list item.
+
+---
+
+## Blockquotes
+* This is the first list item.
+* Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+* And here's the third list item.
+
+* And here's the third list item.
   
 
