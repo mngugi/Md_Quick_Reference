@@ -224,6 +224,14 @@ eat: it was a [hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobb
 ## Images
 
 + Add an exclamation mark(!).
++ For example :
++ 
+  ```html
+  ![Tux, the Linux mascot](cute-anime.webp)
+
+  ```
+
++ 
  ![The San Juan Mountains are beautiful](san_juan_maoutain.jpg)
 
 
