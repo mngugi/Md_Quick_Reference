@@ -169,8 +169,6 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
 
 ***
 
-
-
 ---
 ## Links
 
